@@ -13,5 +13,3 @@ Here is a breakdown of today:
 * I considered visiting the Phoenix Zoo, which surprisingly is still open. 
 * Went to the library which closed today. Fortunately we grabbed roughly 50 items on Sunday, not knowing how long it will be open.
 * Rode bikes and played Pokemon Go at Friendship Park. 
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
